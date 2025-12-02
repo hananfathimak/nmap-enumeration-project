@@ -2,15 +2,15 @@
 
 This project demonstrates a complete Nmap scanning workflow performed as part of my cybersecurity learning on TryHackMe.
 
-## 📌 Project Description
+##  Project Description
 
 The goal of this project was to learn and practice network reconnaissance using Nmap. The scans were executed on a controlled lab environment (TryHackMe AttackBox and target machine). Each step focused on a specific enumeration objective.
 
-## 🛠️ Tools Used
+##  Tools Used
 - Nmap
 - TryHackMe AttackBox (Kali Linux)
 
-## 🧭 Steps Performed
+##  Steps Performed
 
 ### 1️⃣ Host Discovery
 **Command:**
@@ -62,13 +62,13 @@ Attempt to identify the target operating system.
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 
 Screenshots of each scan result are included in this repository for reference and documentation.
 
 ---
 
-## 📄 Learning Outcomes
+##  Learning Outcomes
 
 - Gained hands-on experience performing network enumeration with Nmap.
 - Learned how to interpret scan results, including:
@@ -79,7 +79,7 @@ Screenshots of each scan result are included in this repository for reference an
 
 ---
 
-## 🔗 Author
+##  Author
 
 Hanan Fathima K
 
